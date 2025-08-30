@@ -1,1 +1,2 @@
-# An-Energy-Constrained-Invader-Depth-First-Search-Algorithm-for-N-ary-Tree-Traversal
+#The main report is the IDFS-PH.pdf and IDFS-PH.zip. 
+#The source code is stored in the ECFE folder.
