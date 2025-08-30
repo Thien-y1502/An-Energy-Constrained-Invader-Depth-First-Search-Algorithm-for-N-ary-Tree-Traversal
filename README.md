@@ -7,11 +7,11 @@ A compact repository containing the paper, LaTeX source, implementation, and tes
 ## Repository Layout
 
 .
-├── IDFS-PH.zip # Overleaf project archive (LaTeX sources)
-├── IDFS.pdf # The paper (PDF)
-├── ECFE/ # Source code for the IDFS algorithm
-├── TestCase.docx # Test cases for correctness verification
-└── other-folders/ # Additional reference materials
+├── IDFS-PH.zip # Overleaf project archive (LaTeX sources)\n
+├── IDFS.pdf # The paper (PDF)\n
+├── ECFE/ # Source code for the IDFS algorithm\n
+├── TestCase.docx # Test cases for correctness verification\n
+└── other-folders/ # Additional reference materials\n
 
 
 ---
