@@ -4,18 +4,6 @@ A compact repository containing the paper, LaTeX source, implementation, and tes
 
 ---
 
-## Repository Layout
-
-.
-├── IDFS-PH.zip # Overleaf project archive (LaTeX sources)\n
-├── IDFS.pdf # The paper (PDF)\n
-├── ECFE/ # Source code for the IDFS algorithm\n
-├── TestCase.docx # Test cases for correctness verification\n
-└── other-folders/ # Additional reference materials\n
-
-
----
-
 ## Key Artifacts to Note
 
 - **`IDFS-PH.zip`**  
